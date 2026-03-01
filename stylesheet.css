@@ -96,6 +96,46 @@ h2 {
   font-size: 22px;
 }
 
+.section-table {
+  width: 100%;
+  border: 0;
+  border-spacing: 0;
+  border-collapse: separate;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.section-title-cell {
+  padding: 16px;
+  width: 100%;
+  vertical-align: middle;
+}
+
+.media-table {
+  width: 100%;
+  border: 0;
+  border-spacing: 0 10px;
+  border-collapse: separate;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.media-video-cell {
+  padding: 16px;
+  width: 20%;
+  vertical-align: middle;
+}
+
+.media-text-cell {
+  padding: 8px;
+  width: 80%;
+  vertical-align: middle;
+}
+
+.media-video {
+  width: 100%;
+}
+
 .papertitle {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 14px;
