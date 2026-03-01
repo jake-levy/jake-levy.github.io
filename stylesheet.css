@@ -149,6 +149,14 @@ h2 {
   font-size: 32px;
 }
 
+.profile-description {
+  text-align: justify;
+}
+
+.table-item-description {
+  text-align: justify;
+}
+
 .one {
   width: 160px;
   height: 160px;
